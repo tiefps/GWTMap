@@ -2,7 +2,7 @@
 
 GWTMap is a tool to help map the attack surface of Google Web Toolkit (GWT) based applications. The purpose of this tool is to facilitate the extraction of any service method endpoints buried within a modern GWT application's obfuscated client-side code, and attempt to generate example GWT-RPC requests payloads to interact with them.
 
-More information can be found here: [https://labs.f-secure.com/blog/gwtmap-reverse-engineering-google-web-toolkit-applications](https://labs.f-secure.com/blog/gwtmap-reverse-engineering-google-web-toolkit-applications).
+More information can be found here: [GWTMap - Reverse Engineering Google Web Toolkit Applications](https://labs.withsecure.com/publications/gwtmap-reverse-engineering-google-web-toolkit-applications).
 
 # Requirements
 
